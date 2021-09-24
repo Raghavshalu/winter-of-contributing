@@ -1,4 +1,4 @@
-
+- [Priority Queue](Priority_queue.md)
 - [Deque](Deque)
 - [Stack Implementation](Stack%20Implementation)
 - [Sets](SETS.md)
